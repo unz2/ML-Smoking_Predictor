@@ -1,4 +1,4 @@
-# 흡연 여부 예측 AI 해커톤
+# [흡연 여부 예측 AI 해커톤] (https://dacon.io/competitions/official/236601/mysubmission)
 
 ### 1. 프로젝트 개요
  - 목표 : 건강 데이터를 기반으로 개인의 흡연 여부 예측하는 분류 모델 개발
